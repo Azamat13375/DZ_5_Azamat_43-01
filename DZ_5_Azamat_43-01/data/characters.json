@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Charmander",
+    "age": 5,
+    "person_photo": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/004.png"
+  },
+  {
+    "name": "Charmeleon",
+    "age": 16,
+    "person_photo": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/005.png"
+  },
+  {
+    "name": "Charizard",
+    "age": 36,
+    "person_photo": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/006.png"
+  },
+  {
+    "name": "Squirtle",
+    "age": 5,
+    "person_photo": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/007.png"
+  },
+  {
+    "name": "Wartortle",
+    "age": 16,
+    "person_photo": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/008.png"
+  },
+  {
+    "name": "Blastoise",
+    "age": 36,
+    "person_photo": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/009.png"
+  },
+  {
+    "name": "Bulbasaur",
+    "age": 5,
+    "person_photo": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/001.png"
+  },
+  {
+    "name": "Ivysaur",
+    "age": 16,
+    "person_photo": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/002.png"
+  },
+  {
+    "name": "Venusaur",
+    "age": 36,
+    "person_photo": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/003.png"
+  }
+]
